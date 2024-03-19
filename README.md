@@ -8,13 +8,14 @@
  
  &nbsp;
  &nbsp;
-
-
+## Estatísticas
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusmra)](https://github.com/matheusmra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmra)](https://github.com/matheusmra/github-readme-stats)
 
 &nbsp;
 &nbsp;
 
-## Contacts:
+## Contato:
 
 <div> 
 <a href="https://www.linkedin.com/in/matheus-de-almeida-moreira-7bba6a244/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 

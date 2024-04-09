@@ -23,9 +23,6 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/matheus-de-almeida-moreira-7bba6a244/" alt="Linkedin">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
-  <a href="https://discord.com/@matheusmra" alt="Discord">
-  <img src="https://img.shields.io/badge/-Discord-7289da?style=flat-square&labelColor=7289da&logo=discord&logoColor=white&link='https://discord.gg/Luciano655#7898'"/></a>
 </p>
 
 # Dados

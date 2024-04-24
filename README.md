@@ -12,7 +12,7 @@
 </p>
 
 <p align="left">
-  📖 Aprendendo: <strong>HTML, CSS, JavaScript e C</strong>
+  📖 Aprendendo: <strong>HTML, CSS, JavaScript, C e Swift</strong>
 </p>
 
 

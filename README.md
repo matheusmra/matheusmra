@@ -19,7 +19,7 @@
 
 
 <p align="left">
-  📌 Minhas redes sociais para contato: ⤵️
+  📌 Meu linkedin: ⤵️
 </p>
 
 <p align="left">

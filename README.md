@@ -28,7 +28,13 @@
 </p>
 
 # Dados
-<div>
-  <a href="https://github.com/matheusmra">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmra&layout=compact&langs_count=7&theme=dracula"/>
+[![Matheus de Almeida github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=matheusmra&bg_color=0d1117&color=67cb57&line=67cb57&point=67cb57&area=true&area_color=67cb57&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=matheusmra&theme=matrix&bg_color=0d1117&row=2&no-bg=true&column=3&color=fff&margin-w=15&margin-h=15" />
+</p>
+
+<div align="center">  
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=matheusmra&show_icons=true&count_private=true&hide_border=true&title_color=67cb57&icon_color=67cb57&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Almeida github stats" /> 
+    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmra&layout=compact&hide_border=true&title_color=67cb57&text_color=67cb57&bg_color=0d1117" />
 </div>

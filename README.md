@@ -8,7 +8,6 @@
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=matheusmra&theme=matrix&bg_color=0d1117&row=2&no-bg=true&column=3&color=fff&margin-w=15&margin-h=15" />
 </p>
-
 <div align="center">  
     <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=matheusmra&theme=blue-green&hide_border=false" alt="Github Stats" style="height: 180px;"/>
     <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmra&layout=compact&hide_border=true&title_color=67cb57&text_color=67cb57&bg_color=0d1117" />

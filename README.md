@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=008000&size=35&center=true&vCenter=true&width=1000&lines=Olá,+me+chamo+Matheus;Tenho+18+anos;Sou+de+Belo+Horizonte,+MG;Estudo+Ciência+da+Computação+na+PUC+Minas;Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)
  
 [![Matheus de Almeida github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=matheusmra&bg_color=0d1117&color=67cb57&line=67cb57&point=67cb57&area=true&area_color=67cb57&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
- 
+  
 
 
 <div align="center">  

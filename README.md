@@ -4,7 +4,7 @@
   
 [![Matheus de Almeida github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=matheusmra&bg_color=0d1117&color=67cb57&line=67cb57&point=67cb57&area=true&area_color=67cb57&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
-
+ 
 <div align="center">  
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=matheusmra&theme=blue-green&hide_border=false" alt="Github Stats" style="height: 180px;"/>
     <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmra&layout=compact&hide_border=true&title_color=67cb57&text_color=67cb57&bg_color=0d1117"/>
